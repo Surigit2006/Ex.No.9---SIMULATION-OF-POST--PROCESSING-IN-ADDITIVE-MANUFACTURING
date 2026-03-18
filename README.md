@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+https://github.com/Surigit2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING
+
+<img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/9c6734ed-e6e7-4996-93c7-a4a68fe3633e" />
+
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/3b142b90-4a33-4537-8874-b359991405f7" />
+
+### Name: M.K.Suriya prakash
+### Register Number: 212224110053
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
