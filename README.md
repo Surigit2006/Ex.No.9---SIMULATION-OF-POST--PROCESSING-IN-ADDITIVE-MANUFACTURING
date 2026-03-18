@@ -47,7 +47,8 @@
 
 ## Output:
 
-https://github.com/Surigit2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING
+<img width="1918" height="878" alt="image" src="https://github.com/user-attachments/assets/db853533-7d7a-4bc3-ae5d-bbcd37ab3013" />
+
 
 <img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/9c6734ed-e6e7-4996-93c7-a4a68fe3633e" />
 
